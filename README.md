@@ -7,7 +7,7 @@
 * Создать бота у @BotFather в тг и сохранить токен
 * Создать суперчат/группу и добавить туда своего бота
 * Создать новую тему или взять ссылку со старой
-* Сохранить `CHANNEL_ID` и `THREAD_ID` из ссылки (https://t.me/sandboxS4AlphaPassAlerts/21, здесь sandboxS4AlphaPassAlerts это `CHANNEL_ID`, а 21 это `THREAD_ID`)
+* Сохранить `CHAT_ID` и `THREAD_ID` из ссылки (https://t.me/sandboxS4AlphaPassAlerts/21, здесь sandboxS4AlphaPassAlerts это `CHAT_ID`, а 21 это `THREAD_ID`)
 * Создать и заполнить `.env` файл, по примеру из `.env.example` (`ITEM_ID` можно взять из ссылки на предмет, https://www.sandbox.game/en/assets/season-4-alpha-pass/e0d5cd52-8311-4790-8c56-46cf1c00796b/ здесь `ITEM_ID` это e0d5cd52-8311-4790-8c56-46cf1c00796b)
 
 # Установка
